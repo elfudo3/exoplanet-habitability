@@ -18,8 +18,8 @@ Link: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=
 - Retrieved: August 2025  
 - Contains confirmed exoplanets and their physical and orbital parameters.
 
-### Scatter Plot (All planets)
-![Scatter Plot](figures/radius_vs_equilibrium_temp_scatterplot.png)
+### Scatter Plot (All planets - potentially habitable range highlighted)
+![Scatter Plot](figures/radius_vs_equilibrium_temp_habitable_scatterplot.png)
 
 ---
 
